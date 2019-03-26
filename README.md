@@ -3,8 +3,6 @@ WELCOME TO CLASSS QUERY.
 
 
 
-OUY 
-
 
 
 
