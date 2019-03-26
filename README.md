@@ -1,0 +1,1 @@
+# classquery.h
